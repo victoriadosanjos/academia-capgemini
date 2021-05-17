@@ -1,0 +1,14 @@
+{
+    "Victoria": [
+        {
+            "anuncio": "Casa alugada",
+            "cliente": "Victoria",
+            "dataInicio": "2021-03-05",
+            "dataTermino": "2021-03-06",
+            "valorInvestido": 3.0,
+            "qtVisualizacoes": 330,
+            "qtCliques": 10,
+            "qtCompartilhamentos": 6
+        }
+    ]
+}

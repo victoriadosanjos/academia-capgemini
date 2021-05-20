@@ -23,8 +23,8 @@ Baseados em dados de análise de anúncios anteriores, a agência tem os seguint
         > - O sistema fornecerá os relatórios de cada anúncio contendo:
         >   -    `Valor total investido`
         >   -    `Quantidade máxima de visualizações`
-        >   -    `quantidade máxima de cliques`
-        >   -    `quantidade máxima de compartilhamentos`
+        >   -    `Quantidade máxima de cliques`
+        >   -    `Quantidade máxima de compartilhamentos`
 
 
 ### # Solucão
